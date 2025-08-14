@@ -1,0 +1,12 @@
+[general]
+name=mlprep
+description=This plugin will serve 
+    as a custom plugin that will be used by the MLPrep team for automating 
+    qgis workflows
+about=I am just testing this one
+version=1.0
+qgisMinimumVersion=3.0
+author=ML PREP
+email=example@gmail.com
+repository=URL to the code repository
+category=Web
